@@ -1,0 +1,2 @@
+com\apache\camel\SpringbootCamelSoapwsApplication.class
+com\apache\camel\route\MyRoute.class
