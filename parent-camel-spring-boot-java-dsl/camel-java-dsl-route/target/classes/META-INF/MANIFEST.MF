@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Built-By: Anil Kumar Bejjanki
-Build-Jdk: 17.0.2
-Implementation-Title: camel-java-dsl-route
-Implementation-Version: 1.0
-Implementation-Vendor-Id: com.apache.camel
-Implementation-URL: http://www.example.com
-Created-By: Maven Integration for Eclipse
-
